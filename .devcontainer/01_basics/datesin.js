@@ -13,4 +13,19 @@
 // // console.log(myTimeStamp);
 // // console.log(myCreatedDate.getTime());
 // console.log(Math.floor(Date.now()/1000));
+const tinderUser ={}
 
+tinderUser.id = "123abc"
+tincerUser.name ="shweta"
+tinderUser.isLoggedIn = false
+
+// console.log(tinderUser);
+const regularUser={
+    email:"savita.pokhriya777@gmail.com",
+    fullname:{
+        userfullname{
+            firstname:"savi",
+            lastname:"bhatt"
+        }
+    }
+}
